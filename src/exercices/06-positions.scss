@@ -3,6 +3,7 @@
   background: #8ecae6;
   padding: 40px 20px;
   text-align: center;
+  position: relative;
 }
 
 .lightbox-close {
@@ -10,8 +11,8 @@
   background: #219ebc;
   color: white;
   position: absolute;
-  right: 53%;
-  bottom: -387%;
+  right: 10px;
+  top: 10px;
 }
 
 .list-item {

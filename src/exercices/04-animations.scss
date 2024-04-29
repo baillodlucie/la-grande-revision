@@ -40,14 +40,14 @@
     width: 0;
     opacity: 30%;
   }
-  50% {
-    width: 100%;
+  33% {
+    width: 50%;
   }
-  0% {
+  66% {
     width: 0;
   }
   100% {
-    width: 0;
+    width: 100;
     opacity: 100%;
   }
 }
